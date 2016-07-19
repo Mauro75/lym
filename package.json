@@ -1,0 +1,24 @@
+{
+  "name": "lym",
+  "version": "1.0.0",
+  "description": "path de parendizaje del uso del drive de MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauro75/lym.git"
+  },
+  "author": "jmaurolp@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauro75/lym/issues"
+  },
+  "homepage": "https://github.com/Mauro75/lym#readme",
+  "keywords": [
+    "MongoDB",
+    "drive",
+    "node"
+  ]
+}
